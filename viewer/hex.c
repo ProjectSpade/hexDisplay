@@ -9,4 +9,6 @@ int main()
 	{
 		printf("%.2x ",s);
 	}
+	printf("\n");
+	return 0;
 }
